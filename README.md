@@ -20,6 +20,9 @@ Multithreaded scraper that built a reference for 100,000+ variables in a decades
 **[Student Performance Analytics](https://github.com/siennatalles/student-performance-analytics)**
 Caught data leakage in an initial regression model, then used diagnostics, multicollinearity checks, and multiple model-selection methods to find what actually predicts student outcomes.
 
+**[Personal Dashboard](https://github.com/siennatalles/personal-dashboard)**
+A FastAPI app pulling Apple Calendar, Gmail, Canvas, and news concurrently with an AI-written daily briefing — built entirely by directing Claude rather than hand-coding, to learn API integration and effective prompting.
+
 More at my [portfolio site](#) · [LinkedIn](https://www.linkedin.com/in/sienna-talles/)
 
 ---
