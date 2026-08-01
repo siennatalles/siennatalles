@@ -23,7 +23,7 @@ Caught data leakage in an initial regression model, then used diagnostics, multi
 **[Personal Dashboard](https://github.com/siennatalles/personal-dashboard)**
 A FastAPI app pulling Apple Calendar, Gmail, Canvas, and news concurrently with an AI-written daily briefing — built entirely by directing Claude rather than hand-coding, to learn API integration and effective prompting.
 
-More at my [portfolio site](#) · [LinkedIn](https://www.linkedin.com/in/sienna-talles/)
+More at my [portfolio site](https://siennatalles.github.io/) · [LinkedIn](https://www.linkedin.com/in/sienna-talles/)
 
 ---
 
