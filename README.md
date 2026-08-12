@@ -5,7 +5,7 @@ Data Science student at Washington University in St. Louis (McKelvey School of E
 - 🔬 Research Assistant at the WashU Personality Measurement and Development Lab — data engineering and web scraping against the German Socio-Economic Panel (GSOEP)
 - 📊 Market Research Intern at Ipsos, Innovation Team — statistical testing and survey analysis for financial services, retail, and tech clients
 - 🏆 Best Use of Statistical Analysis Award, ASA DataFest 2026 (18 teams, 5 universities)
-- 🎓 Expected May 2028 · Dean's List, GPA 3.96/4.0
+- 🎓 Expected Graduation May 2028 · Dean's List, GPA 3.96/4.0
 
 ---
 
