@@ -12,16 +12,19 @@ Data Science student at Washington University in St. Louis (McKelvey School of E
 ### Projects
 
 **[Hospital Length-of-Stay Analysis — ASA DataFest](https://github.com/siennatalles/datafest-hospital-los)**
-Analyzed how diagnosis, seasonality, and department affect patient length of stay using a GLM (Gamma, log-link), ICD-10 classification, and XGBoost. Awarded Best Use of Statistical Analysis.
+With teammates Chloe Shin, Melissa Wang, Harrison Arons, and Zhiyao Wu. Analyzed how diagnosis, seasonality, and department affect patient length of stay to help SVH improve patient experience, using a GLM (Gamma, log-link), machine learning models including XGBoost, and ICD-10 classification. Pinpointed where to reallocate resources and won Best Use of Statistical Analysis.
 
 **[GSOEP Webscraper](https://github.com/siennatalles/gsoep-webscraper)**
-Multithreaded scraper that built a reference for 100,000+ variables in a decades-long household survey — used to prioritize inputs for a life-outcomes prediction model.
+Multithreaded scraper that consolidated 100,000+ scattered per-variable documentation pages from paneldata.org into a single searchable reference, used to prioritize inputs for a life-outcomes prediction model at WashU's Personality Measurement and Development Lab.
+
+**[Melbourne Housing Price Prediction](https://github.com/siennatalles/melbourne-housing-price-prediction)**
+With teammate Heidi Schultz. Compared four ML models to predict Melbourne housing prices, then investigated why feature engineering made every model worse instead of better.
 
 **[Student Performance Analytics](https://github.com/siennatalles/student-performance-analytics)**
-Caught data leakage in an initial regression model, then used diagnostics, multicollinearity checks, and multiple model-selection methods to find what actually predicts student outcomes.
+With teammates Gabi Wurgaft, Harrison Arons, Ryan Pemberton, and John Collett. Caught data leakage in an initial regression model (the score being predicted was actually a weighted sum of its own predictors), then used diagnostics and multiple model-selection methods to find what actually predicts student outcomes.
 
 **[Personal Dashboard](https://github.com/siennatalles/personal-dashboard)**
-A FastAPI app pulling Apple Calendar, Gmail, Canvas, and news concurrently with an AI-written daily briefing — built entirely by directing Claude rather than hand-coding, to learn API integration and effective prompting.
+An app pulling Apple Calendar, Gmail, Canvas, and weather concurrently with an AI-written daily briefing, built entirely by directing Claude. Learned to write instructions precise enough for an agent to act on and verify its output, rather than writing the code myself.
 
 More at my [portfolio site](https://siennatalles.github.io/) · [LinkedIn](https://www.linkedin.com/in/sienna-talles/)
 
