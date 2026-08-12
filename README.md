@@ -20,9 +20,6 @@ Multithreaded scraper that consolidated 100,000+ scattered per-variable document
 **[Melbourne Housing Price Prediction](https://github.com/siennatalles/melbourne-housing-price-prediction)**
 Compared four ML models to predict Melbourne housing prices, then investigated why feature engineering made every model worse instead of better.
 
-**[Student Performance Analytics](https://github.com/siennatalles/student-performance-analytics)**
-Caught data leakage in an initial regression model (the score being predicted was actually a weighted sum of its own predictors), then used diagnostics and multiple model-selection methods to find what actually predicts student outcomes.
-
 **[Personal Dashboard](https://github.com/siennatalles/personal-dashboard)**
 An app pulling Apple Calendar, Gmail, Canvas, and weather concurrently with an AI-written daily briefing, built entirely by directing Claude. Learned to write instructions precise enough for an agent to act on and verify its output, rather than writing the code myself.
 
