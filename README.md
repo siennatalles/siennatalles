@@ -31,7 +31,7 @@ More at my [portfolio site](https://siennatalles.github.io/) · [LinkedIn](https
 
 **Languages:** Python · R · SQL · Java · HTML/CSS · JavaScript
 **Python:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
-**Methods:** Regression & GLMs · XGBoost/Random Forest · Model Diagnostics & Selection · Web Scraping · A/B Testing & Survey Design
+**Methods:** Regression · XGBoost/Random Forest · Model Diagnostics & Selection · Web Scraping · A/B Testing & Survey Design
 
 ---
 
