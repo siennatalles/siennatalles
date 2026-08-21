@@ -12,13 +12,13 @@ Data Science student at Washington University in St. Louis (McKelvey School of E
 ### Projects
 
 **[Hospital Length-of-Stay Analysis — ASA DataFest](https://github.com/siennatalles/datafest-hospital-los)**
-Analyzed how diagnosis, seasonality, and department affect patient length of stay to help SVH improve patient experience, using a GLM (Gamma, log-link), machine learning models including XGBoost, and ICD-10 classification. Pinpointed where to reallocate resources and won Best Use of Statistical Analysis.
+Cleaned and explored seven healthcare datasets in Python, engineered patient length of stay from admission and discharge timestamps, and built Linear Regression and Random Forest models to identify its drivers, pinpointing departments, seasons, and diagnoses associated with longer stays to inform resource allocation. Won Best Use of Statistical Analysis.
 
 **[GSOEP Webscraper](https://github.com/siennatalles/gsoep-webscraper)**
-Multithreaded scraper that consolidated 100,000+ scattered per-variable documentation pages from paneldata.org into a single searchable reference, used to prioritize inputs for a life-outcomes prediction model at WashU's Personality Measurement and Development Lab.
+Built a multithreaded Python scraper extracting 125,000+ variables across 600+ datasets from the German Socio-Economic Panel, handling retry logic and API pagination, then restructured the results into JSON/CSV pipelines to support variable prioritization for a personality-based life-outcomes model at WashU's Personality Measurement and Development Lab.
 
 **[Melbourne Housing Price Prediction](https://github.com/siennatalles/melbourne-housing-price-prediction)**
-Compared four ML models to predict Melbourne housing prices, then investigated why feature engineering made every model worse instead of better.
+Built and compared Linear Regression, KNN, Decision Tree, and Random Forest models to predict Melbourne housing prices, using imputation, scaling, and one-hot encoding, then tuned hyperparameters with GridSearchCV, with Random Forest achieving the strongest performance at approximately 0.83 R².
 
 **[Personal Dashboard](https://github.com/siennatalles/personal-dashboard)**
 An app pulling Apple Calendar, Gmail, Canvas, and weather concurrently with an AI-written daily briefing, built entirely by directing Claude. Learned to write instructions precise enough for an agent to act on and verify its output, rather than writing the code myself.
